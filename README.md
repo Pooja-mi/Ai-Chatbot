@@ -1,6 +1,5 @@
 # Ai-Chatbot
 
-[Screenshot 2025-02-05 225004](https://github.com/user-attachments/assets/81718f6f-3f4a-4ac4-a285-3373ffd1aaaf)
 Welcome! to the JavaScript Chatbot with the OpenAI API repository! This project showcases a dynamic and interactive chatbot implemented using HTML, CSS, and JavaScript. Leveraging the power of the OpenAI API, the chatbot engages in natural language conversations with users.
 
 Features
